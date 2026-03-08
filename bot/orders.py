@@ -48,6 +48,7 @@ def print_summary(testorder):
     table.add_row("Order ID", str(testorder.get('orderId')))
     table.add_row("Status", testorder.get('status'))
     table.add_row("Executed Qty", testorder.get('executedQty', 'N/A'))
+    table.add_row("Average Price", testorder.get('avgPrice', 'N/A'))
     
     console.print(table)
 
