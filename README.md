@@ -1,6 +1,6 @@
-# Binance Futures CLI Trading Bot
+# Binance Futures CLI Demo Trading Bot
 
-A command-line trading bot written in Python for placing Binance Futures orders.  
+A command-line demo trading bot written in Python for placing Binance Futures orders.  
 The program validates user inputs and executes market or limit orders through the Binance API.
 
 ---
