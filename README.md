@@ -19,7 +19,7 @@ The program validates user inputs and executes market or limit orders through th
 ---
 
 ## Project Structure
-
+```
 trading_bot/
 ├── README.md
 ├── bot
@@ -30,7 +30,7 @@ trading_bot/
 │   └── validator.py
 ├── cli.py
 └── requirement.txt
-
+```
 ---
 
 ## Installation
