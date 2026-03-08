@@ -29,7 +29,7 @@ trading_bot/
 │   ├── orders.py
 │   └── validator.py
 ├── cli.py
-└── requirement.txt
+└── requirements.txt
 ```
 ---
 
